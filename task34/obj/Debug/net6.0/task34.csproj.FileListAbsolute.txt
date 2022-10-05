@@ -1,0 +1,15 @@
+/home/user/geekbrains1/practicum/task34/bin/Debug/net6.0/task34
+/home/user/geekbrains1/practicum/task34/bin/Debug/net6.0/task34.deps.json
+/home/user/geekbrains1/practicum/task34/bin/Debug/net6.0/task34.runtimeconfig.json
+/home/user/geekbrains1/practicum/task34/bin/Debug/net6.0/task34.dll
+/home/user/geekbrains1/practicum/task34/bin/Debug/net6.0/ref/task34.dll
+/home/user/geekbrains1/practicum/task34/bin/Debug/net6.0/task34.pdb
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.csproj.AssemblyReference.cache
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.AssemblyInfoInputs.cache
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.AssemblyInfo.cs
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.csproj.CoreCompileInputs.cache
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.dll
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/ref/task34.dll
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.pdb
+/home/user/geekbrains1/practicum/task34/obj/Debug/net6.0/task34.genruntimeconfig.cache
